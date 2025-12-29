@@ -1,5 +1,5 @@
 # ETERNAL CANVAS - VAULT README
-DOI 10.5281/zenodo.18070829
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOURCODE.svg)](https://doi.org/10.5281/zenodo.YOURCODE)
 
 ## 🎯 WHAT THIS IS
 
