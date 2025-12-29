@@ -345,7 +345,7 @@ eternalcanvas@pm.me
 
 
 **Support:** 
-[Will add: funding links]
+https://ko-fi.com/theeternalcanvas
 
 **Vault Location:** 
 https://publish.obsidian.md/thecanvas
