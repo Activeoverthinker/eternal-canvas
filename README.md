@@ -1,5 +1,6 @@
 # ETERNAL CANVAS - VAULT README
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18070829.svg)](https://doi.org/10.5281/zenodo.18070829)
+# To Support me: https://ko-fi.com/theeternalcanvas
 
 ## 🎯 WHAT THIS IS
 
